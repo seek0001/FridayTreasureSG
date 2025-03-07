@@ -5,7 +5,7 @@ Clue: Look for a file that sounds sneaky. Then, add your own treasure below!
 
 ## Your Treasure
 Tell us one thing you enjoyed learning in this course. Edit this file and add your name + answer below:
-- [Your Name]: [Your Answer]
+- [Steve]: [I like this course because I learnt a lot in the practical sessions.]
 - I like this place because the plants are beautiful.
 ![Singapore](sg-pic.jpg)
 
